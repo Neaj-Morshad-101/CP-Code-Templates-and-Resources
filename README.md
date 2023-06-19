@@ -1,6 +1,5 @@
 # CP-Code-Templates-and-Resources
-All of my resources that I used for competitive programming contests. 
+### All of my resources that I used for competitive programming contests. 
 
 
-
-### will update this readme soon
+I will update this readme soon

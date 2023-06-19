@@ -1,0 +1,1 @@
+fprintf(stderr, "Time: %d ms\n", (int)(clock() * 1000.0 / CLOCKS_PER_SEC));

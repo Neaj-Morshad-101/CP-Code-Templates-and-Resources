@@ -1,0 +1,45 @@
+How to think?
+
+Try small cases, solve them then try to build the actual problem solution
+
+BruteForce
+Greedy
+Sorting 
+Bitmask
+Two Pointer
+Constructive
+Divide and Conquer
+Dynamic Programming
+Binary Search -> Ternary Search
+Backtracking 
+Graphs -> DFS, DSU, Sortest Path
+Tree 
+String -> Suffix Array
+Hashing 
+Data Structure -> Trie, Ordered Set, Segment Tree
+Number Theory 
+Combinatorics
+Game Theory
+Geometry
+Probability
+Matrix
+
+
+
+Common Erros:
+
+small mxn
+Integer Overflow change all int to ll
+two times declaration of a varible(local & global)
+take input cin>>n
+print("Case No: ");
+Corner Case(n == 0 or n == 1)
+Precision Error
+
+Contest Time do's:
+Parallel Tasking(if in a team)
+Recheck you idea(share idea if in a team)
+Contruct Full Solution with Implementation brefore Coding
+Read All Problems
+
+
